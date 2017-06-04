@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba.iml" filepath="$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba_main.iml" group="dataBaseH2Prueba" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dataBaseH2Prueba_test.iml" group="dataBaseH2Prueba" />
+    </modules>
+  </component>
+</project>
